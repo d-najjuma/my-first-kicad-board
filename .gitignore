@@ -1,0 +1,13 @@
+# KiCad generated files
+*.lck
+fp-info-cache
+sym-lib-table.lck
+fp-lib-table.lck
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*-backups/
+*.bak
